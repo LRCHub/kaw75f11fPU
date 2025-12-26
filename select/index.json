@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN \"\"ray\"\" LIVE MV from \"\"TOUR 2017-2018 PATHFINDER SAITAMA SUPER ARENA\"\"",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-26T16:48:21.642253Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sister Ray [Live At the Moonlight Club, London April 1980]",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/01_Sister_Ray_[Live_At_the_Moonlight_Club,_London_April_1980]_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sister Ray (Live at The Moonlight Club, London, April 2, 1980)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/02_Sister_Ray_(Live_at_The_Moonlight_Club,_London,_April_2,_1980)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sister Ray (Live)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/03_Sister_Ray_(Live)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sister Ray (Live)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/04_Sister_Ray_(Live)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sister Ray [Live]",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/05_Sister_Ray_[Live]_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Death Ray (Live)",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/06_Death_Ray_(Live)_Misfits.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gamma Ray (Live in Bochum)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/07_Gamma_Ray_(Live_in_Bochum)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sister Ray - Live In New York City / 1967",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/08_Sister_Ray_-_Live_In_New_York_City___1967_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's a Shame About Ray (Live)",
+      "artist": "The Lemonheads",
+      "has_synced": false,
+      "path": "select/09_It's_a_Shame_About_Ray_(Live)_The_Lemonheads.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sister Ray - Live In San Francisco / 1969",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/10_Sister_Ray_-_Live_In_San_Francisco___1969_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sister Ray (Live (1969/The Matrix))",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/11_Sister_Ray_(Live_(1969_The_Matrix))_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sister Ray (Live In New York City/1967)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/12_Sister_Ray_(Live_In_New_York_City_1967)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sister Ray (live at the Moonlight club, London April 1980; 2007 remaster)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/13_Sister_Ray_(live_at_the_Moonlight_club,_London_April_1980;_2007_remaster)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sister Ray (Live at Alice Tully Hall January 27, 1973 - 2nd Show)",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/14_Sister_Ray_(Live_at_Alice_Tully_Hall_January_27,_1973_-_2nd_Show)_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Worried About Ray - (Live Acoustic Session)",
+      "artist": "The Hoosiers",
+      "has_synced": true,
+      "path": "select/15_Worried_About_Ray_-_(Live_Acoustic_Session)_The_Hoosiers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Worried About Ray (live 06/03/2007)",
+      "artist": "The Hoosiers",
+      "has_synced": true,
+      "path": "select/16_Worried_About_Ray_(live_06_03_2007)_The_Hoosiers.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Solar Ray (Live At Shibuya Koukaido / 1990)",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/17_Solar_Ray_(Live_At_Shibuya_Koukaido___1990)_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ray [Live]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ray_[Live]_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
